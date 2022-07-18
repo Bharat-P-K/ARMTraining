@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>53.0</version>
+    <version>54.0</version>
     <types>
         <members>BeerController</members>
         <members>FromUser2</members>
@@ -8,5 +8,14 @@
     <types>
         <members>standard__DataManager</members>
         <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Classroom__c.Standard__c</members>
+        <members>Classroom__c.Subject__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>MarketingProfile</members>
+        <name>Profile</name>
     </types>
 </Package>
