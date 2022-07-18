@@ -3,6 +3,7 @@
     <types>
         <members>BeerController</members>
         <members>FromUser2</members>
+        <members>HelloWorld</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -10,12 +11,19 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>Classroom__c.Percentile__c</members>
         <members>Classroom__c.Standard__c</members>
         <members>Classroom__c.Subject__c</members>
         <name>CustomField</name>
     </types>
     <types>
+        <members>Classroom__c-Classroom Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Admin</members>
         <members>MarketingProfile</members>
+        <members>TestProfile</members>
         <name>Profile</name>
     </types>
 </Package>
