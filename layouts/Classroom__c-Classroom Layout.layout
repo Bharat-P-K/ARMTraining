@@ -24,6 +24,10 @@
                 <behavior>Edit</behavior>
                 <field>Percentile__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>section__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
