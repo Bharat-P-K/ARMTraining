@@ -4,6 +4,7 @@
         <members>BeerController</members>
         <members>FromUser2</members>
         <members>HelloWorld</members>
+        <members>VerifyDate</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -14,6 +15,7 @@
         <members>Classroom__c.Percentile__c</members>
         <members>Classroom__c.Standard__c</members>
         <members>Classroom__c.Subject__c</members>
+        <members>Classroom__c.section__c</members>
         <name>CustomField</name>
     </types>
     <types>
