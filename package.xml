@@ -4,6 +4,8 @@
         <members>BeerController</members>
         <members>FromUser2</members>
         <members>HelloWorld</members>
+        <members>ListOfAccounts</members>
+        <members>Sum</members>
         <members>VerifyDate</members>
         <name>ApexClass</name>
     </types>
@@ -13,14 +15,34 @@
     </types>
     <types>
         <members>Classroom__c.Percentile__c</members>
+        <members>Classroom__c.Rank__c</members>
         <members>Classroom__c.Standard__c</members>
         <members>Classroom__c.Subject__c</members>
+        <members>Classroom__c.Teacher__c</members>
+        <members>Classroom__c.Total__c</members>
         <members>Classroom__c.section__c</members>
         <name>CustomField</name>
     </types>
     <types>
+        <members>Classroom__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Classroom__c-en_US</members>
+        <name>CustomObjectTranslation</name>
+    </types>
+    <types>
+        <members>Classroom__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
         <members>Classroom__c-Classroom Layout</members>
         <name>Layout</name>
+    </types>
+    <types>
+        <members>Classroom__c.All</members>
+        <members>Classroom__c.My_Custom_View</members>
+        <name>ListView</name>
     </types>
     <types>
         <members>Admin</members>
