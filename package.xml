@@ -24,6 +24,7 @@
     </types>
     <types>
         <members>Admin</members>
+        <members>ContractManager</members>
         <members>MarketingProfile</members>
         <members>TestProfile</members>
         <name>Profile</name>
