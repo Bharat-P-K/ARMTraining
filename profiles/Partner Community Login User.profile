@@ -5,13 +5,8 @@
         <enabled>false</enabled>
     </classAccesses>
     <custom>false</custom>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Classroom__c.Standard__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
     <layoutAssignments>
         <layout>Classroom__c-Classroom Layout</layout>
     </layoutAssignments>
-    <userLicense>Salesforce</userLicense>
+    <userLicense>Partner Community Login</userLicense>
 </Profile>
