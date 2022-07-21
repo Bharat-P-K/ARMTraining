@@ -15,22 +15,14 @@
             <masterLabel>1</masterLabel>
             <translation><!-- 1 --></translation>
         </picklistValues>
-        <picklistValues>
             <masterLabel>2</masterLabel>
             <translation><!-- 2 --></translation>
-        </picklistValues>
-        <picklistValues>
             <masterLabel>3</masterLabel>
             <translation><!-- 3 --></translation>
-        </picklistValues>
-        <picklistValues>
             <masterLabel>4</masterLabel>
             <translation><!-- 4 --></translation>
-        </picklistValues>
-        <picklistValues>
             <masterLabel>5</masterLabel>
             <translation><!-- 5 --></translation>
-        </picklistValues>
     </fields>
     <fields>
         <help><!-- Choose your subject --></help>
@@ -40,30 +32,18 @@
             <masterLabel>EVS</masterLabel>
             <translation><!-- EVS --></translation>
         </picklistValues>
-        <picklistValues>
             <masterLabel>English</masterLabel>
             <translation><!-- English --></translation>
-        </picklistValues>
-        <picklistValues>
             <masterLabel>Geography</masterLabel>
             <translation><!-- Geography --></translation>
-        </picklistValues>
-        <picklistValues>
             <masterLabel>Hindi</masterLabel>
             <translation><!-- Hindi --></translation>
-        </picklistValues>
-        <picklistValues>
             <masterLabel>History and civics</masterLabel>
             <translation><!-- History and civics --></translation>
-        </picklistValues>
-        <picklistValues>
             <masterLabel>Maths</masterLabel>
             <translation><!-- Maths --></translation>
-        </picklistValues>
-        <picklistValues>
             <masterLabel>Science</masterLabel>
             <translation><!-- Science --></translation>
-        </picklistValues>
     </fields>
     <fields>
         <label><!-- Teacher --></label>
@@ -73,7 +53,6 @@
     <fields>
         <label><!-- Total --></label>
         <name>Total__c</name>
-    </fields>
     <layouts>
         <layout>Classroom Layout</layout>
         <sections>
@@ -85,5 +64,78 @@
             <section>Detail</section>
         </sections>
     </layouts>
+        <label></label>
+        <name>Rank__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>Standard__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5</masterLabel>
+            <translation></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help></help>
+        <label></label>
+        <name>Subject__c</name>
+        <picklistValues>
+            <masterLabel>EVS</masterLabel>
+            <translation></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>English</masterLabel>
+            <translation></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Geography</masterLabel>
+            <translation></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hindi</masterLabel>
+            <translation></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>History and civics</masterLabel>
+            <translation></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Maths</masterLabel>
+            <translation></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Science</masterLabel>
+            <translation></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label></label>
+        <name>Teacher__c</name>
+        <relationshipLabel></relationshipLabel>
+    </fields>
+    <fields>
+        <label></label>
+        <name>Total__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>section__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>
