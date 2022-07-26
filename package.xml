@@ -43,6 +43,7 @@
     <types>
         <members>Classroom__c.Percentile__c</members>
         <members>Classroom__c.Rank__c</members>
+        <members>Classroom__c.Remarks__c</members>
         <members>Classroom__c.Standard__c</members>
         <members>Classroom__c.Subject__c</members>
         <members>Classroom__c.Teacher__c</members>
@@ -64,6 +65,7 @@
     </types>
     <types>
         <members>Classroom__c-Classroom Layout</members>
+        <members>Training__c-Training Layout</members>
         <name>Layout</name>
     </types>
     <types>
