@@ -2,12 +2,26 @@
     <version>54.0</version>
     <types>
         <members>BeerController</members>
+        <members>EmailManager</members>
         <members>FromUser2</members>
         <members>HelloWorld</members>
         <members>ListOfAccounts</members>
         <members>Sum</members>
         <members>VerifyDate</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>AppSwitcher</members>
+        <members>Salesforce1</members>
+        <name>AppMenu</name>
+    </types>
+    <types>
+        <members>Account.Approve_New_Account</members>
+        <name>ApprovalProcess</name>
+    </types>
+    <types>
+        <members>DataCloudGeoLocation</members>
+        <name>CleanDataService</name>
     </types>
     <types>
         <members>standard__DataManager</members>
