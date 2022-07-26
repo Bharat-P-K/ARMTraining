@@ -165,6 +165,19 @@
         <type>Percent</type>
     </fields>
     <fields>
+        <fullName>Rank__c</fullName>
+        <description>Rank in class</description>
+        <externalId>false</externalId>
+        <label>Rank</label>
+        <precision>2</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Standard__c</fullName>
         <description>Name of the student</description>
         <externalId>false</externalId>
@@ -276,6 +289,17 @@
         <externalId>false</externalId>
         <label>Total</label>
         <length>3</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>section__c</fullName>
+        <externalId>false</externalId>
+        <label>section</label>
+        <length>1</length>
         <required>false</required>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
