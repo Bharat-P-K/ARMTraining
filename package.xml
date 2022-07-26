@@ -7,6 +7,7 @@
         <members>HelloWorld</members>
         <members>ListOfAccounts</members>
         <members>Sum</members>
+        <members>TestSum</members>
         <members>VerifyDate</members>
         <name>ApexClass</name>
     </types>
