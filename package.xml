@@ -49,10 +49,12 @@
         <members>Classroom__c.Teacher__c</members>
         <members>Classroom__c.Total__c</members>
         <members>Classroom__c.section__c</members>
+        <members>Training__c.start_date__c</members>
         <name>CustomField</name>
     </types>
     <types>
         <members>Classroom__c</members>
+        <members>Training__c</members>
         <name>CustomObject</name>
     </types>
     <types>
