@@ -6,8 +6,10 @@
         <members>FromUser2</members>
         <members>HelloWorld</members>
         <members>ListOfAccounts</members>
+        <members>StringArrayTest</members>
         <members>Sum</members>
         <members>TestSum</members>
+        <members>TestVerifyDate</members>
         <members>VerifyDate</members>
         <name>ApexClass</name>
     </types>
@@ -19,6 +21,16 @@
     <types>
         <members>Account.Approve_New_Account</members>
         <name>ApprovalProcess</name>
+    </types>
+    <types>
+        <members>Case.Standard</members>
+        <members>Lead.Standard</members>
+        <name>AssignmentRule</name>
+    </types>
+    <types>
+        <members>Case</members>
+        <members>Lead</members>
+        <name>AssignmentRules</name>
     </types>
     <types>
         <members>DataCloudGeoLocation</members>
